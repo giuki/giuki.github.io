@@ -4,7 +4,7 @@ Redatores: Giuliano Gelain, Heitor Silveira, João Santos
 # Segurança e Soberania Alimentar: histórico, definição e desafios
 A questão do abastecimento da população mundial é um tópico que ganhou importância no contexto do mundo globalizado. A capacidade de suprir a demanda por alimentos para todos foi, por vezes, posta em cheque por pensadores que alertaram para o crescimento exponencial da população. Mesmo com a revolução verde e toda a tecnologia que hoje se dispõe para a produção de alimentos, a fome continua a ser um problema que assola o mundo, principalmente os países mais pobres e povos mais vulneráveis. A América Latina e Caribe possuem  números preocupantes quando o assunto é fome, então como uma região que se encontra nessa situação poderia ser conhecida como um dos celeiros do mundo? Para poder responder a essa questão e entender a situação primeiro é preciso entender o que é Segurança Alimentar, Soberania Alimentar e como elas se relacionam ao tipo de política adotada por governos, empresas e grandes latifundiários da região.
 
-## Segurança Alimentar
+## Segurança alimentar
 “Segurança alimentar existe quando todas as pessoas, a qualquer momento, tem acesso físico e econômico à quantidade suficientes, seguras e nutritivas de alimentos para sua dieta necessária e de preferência, para uma vida ativa e saudável.” ( World Food Summit, 1996)
 
 As definições mais aceitas para segurança alimentar são:
@@ -42,7 +42,7 @@ Os principais produtos agrícolas que são exportados são o grão de soja (tant
 Na região o Brasil é o principal exportador de produtos agrícolas e alimentos (79,3 bilhões de dólares em 2017), seguido pela Argentina (35 bilhões de dólares), México (32,5 bilhões de dólares), Chile(17 bilhões), Equador(10,4 bilhões) e Peru (8,8 bilhões).
 Esses dados reforçam a importância do debate sobre como a região que é celeiro do mundo, mas ainda tem um número significativo da sua população em situação de vulnerabilidade alimentar.
 
- ## Referências
+## Referências
  * ALTIERI, Miguel A. Agroecologia, agricultura camponesa e soberania alimentar. Revista NERA, Ano 13, nº 16, pp. 22-32, Presidente Prudente, 2010
  * ARAÚJO, Gracieda dos Santos. Soberania alimentar e políticas para a agricultura familiar na América Latina: o caso do Brasil e da Argentina. Revista Nera, Ano 19, nº 32, pp. 72-90, 2016.
  * CHONCHOL, Jacques. A soberania alimentar. Cultura, Sociedad e Historia Contemporánea, Revista del Doctorado en el Estudio de las Sociedades Latinoamericanas, Santiago do Chile, Universidad Arcis, Editorial Arcis, 2002, pp. 269-290.
@@ -54,7 +54,8 @@ Esses dados reforçam a importância do debate sobre como a região que é celei
 * [STEDILE, João Pedro. CARVALHO, Horacio Martins de. Soberania Alimentar: Uma Necessidade dos Povos. Ecodebate, 2011.](https://www.ecodebate.com.br/2011/03/25/soberania-alimentar-uma-necessidade-dos-povos-artigo-de-joao-pedro-stedile-e-horacio-martins-de-carvalho/#:~:text=Soberania%20alimentar%3A%20conceitos%20e%20trajet%C3%B3ria,-Houve%20nas%20%C3%BAltimas&text=Foi%20a%20obra%20de%20Josu%C3%A9,produ%C3%A7%C3%A3o%20e%20distribui%C3%A7%C3%A3o%20dos%20alimentos)
 * VIEIRA, Pedro Abel. CONTINI, Elisio. HENZ, Gilmar Paulo. NOGUEIRA, Virgínia G. de Caudas, editores técnicos. GEOPOLÍTICA DO ALIMENTO: O Brasil como fonte de estratégica de alimentos para a humanidade. Brasília, DF: Embrapa, 2019.
 * VITTE, Claudete de Castro Silva. A terra é novo ouro: Geopolítica dos alimentos, conflitos por terra e principais atores envolvidos na América do Sul. XVII ENANPUR, São Paulo, 2017.
-¿Qué es la CLOC-Via Campesina? CLOC-Via Campesina, 2020. 
+¿Qué es la CLOC-Via Campesina? CLOC-Via Campesina, 2020.
+
 ## Outros Links
 [![image](https://user-images.githubusercontent.com/106170343/170143726-9495775f-5625-4af6-a092-af1233b5ac9d.png)](https://www.fao.org/cfs/en/)
 [![image](https://user-images.githubusercontent.com/106170343/170781343-54a2d940-b7eb-4cd1-a3fe-d82e7587f33f.png)](https://cloc-viacampesina.net/que-es-la-cloc-via-campesina)
